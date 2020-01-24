@@ -1,0 +1,152 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>kvadrat</name>
+    </assembly>
+    <members>
+        <member name="T:mpl1.Form1">
+            <summary>
+            просто класс
+            </summary>
+        </member>
+        <member name="F:mpl1.Form1.userRoot">
+            <summary>
+            главная формв
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.#ctor">
+            <summary>
+            Инициализация компонентов и установка размеров окна заданное предыдущим пользоватлем
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.button1_Click(System.Object,System.EventArgs)">
+            <summary>
+            main function
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox1_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            проверка нажатия клавиш при вводе a
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox2_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            проверка нажатия клавиш при вводе b
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox3_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+            <summary>
+            проверка нажатия клавиш при вводе с
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox1_Leave(System.Object,System.EventArgs)">
+            <summary>
+            обработка нажатия textBox1_Leave
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox2_Leave(System.Object,System.EventArgs)">
+            <summary>
+            обработка нажатия textBox2_Leave
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.textBox3_Leave(System.Object,System.EventArgs)">
+            <summary>
+            обработка нажатия textBox13_Leave
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.disc">
+            <summary>
+            Определяет есть ли ошибка
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.error">
+            <summary>
+            Отвечате за вывод ошибки
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.ras">
+            <summary>
+            выполняет основной расчет
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.button4_Click(System.Object,System.EventArgs)">
+            <summary>
+            registr
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:mpl1.Form1.button3_Click(System.Object,System.EventArgs)">
+            <summary>
+            vhod
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:mpl1.Form1.components">
+            <summary>
+            Обязательная переменная конструктора.
+            </summary>
+        </member>
+        <member name="M:mpl1.Form1.Dispose(System.Boolean)">
+            <summary>
+            Освободить все используемые ресурсы.
+            </summary>
+            <param name="disposing">истинно, если управляемый ресурс должен быть удален; иначе ложно.</param>
+        </member>
+        <member name="M:mpl1.Form1.InitializeComponent">
+            <summary>
+            Требуемый метод для поддержки конструктора — не изменяйте 
+            содержимое этого метода с помощью редактора кода.
+            </summary>
+        </member>
+        <member name="M:mpl1.Program.Main">
+            <summary>
+            Главная точка входа для приложения.
+            </summary>
+        </member>
+        <member name="T:mpl1.f">
+            <summary>
+            класс для тестирование.
+            </summary>
+        </member>
+        <member name="M:mpl1.f.vozvedenie(System.Double,System.Double)">
+            <summary>
+            умножение  число на число.
+            </summary>
+            <param name="variable1">число 1</param>
+            <param name="variable2">число 2</param>
+            <returns></returns>
+        </member>
+        <member name="T:mpl1.Properties.Resources">
+            <summary>
+              Класс ресурса со строгой типизацией для поиска локализованных строк и т.д.
+            </summary>
+        </member>
+        <member name="P:mpl1.Properties.Resources.ResourceManager">
+            <summary>
+              Возвращает кэшированный экземпляр ResourceManager, использованный этим классом.
+            </summary>
+        </member>
+        <member name="P:mpl1.Properties.Resources.Culture">
+            <summary>
+              Перезаписывает свойство CurrentUICulture текущего потока для всех
+              обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
+            </summary>
+        </member>
+    </members>
+</doc>

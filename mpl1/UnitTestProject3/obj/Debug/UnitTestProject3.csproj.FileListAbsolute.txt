@@ -1,0 +1,8 @@
+D:\mpl1\UnitTestProject3\obj\Debug\UnitTestProject3.csprojResolveAssemblyReference.cache
+D:\mpl1\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+D:\mpl1\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+D:\mpl1\UnitTestProject3\bin\Debug\kvadrat.exe
+D:\mpl1\UnitTestProject3\bin\Debug\kvadrat.pdb
+D:\mpl1\UnitTestProject3\bin\Debug\kvadrat.xml
+D:\mpl1\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+D:\mpl1\UnitTestProject3\obj\Debug\UnitTestProject3.pdb
